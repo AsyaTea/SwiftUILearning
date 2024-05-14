@@ -24,6 +24,7 @@
 		41A8D29C2BF35C8700EC80D5 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D29B2BF35C8700EC80D5 /* WeakSelfBootcamp.swift */; };
 		41A8D29E2BF3644A00EC80D5 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D29D2BF3644A00EC80D5 /* TypealiasBootcamp.swift */; };
 		41A8D2A02BF3715C00EC80D5 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D29F2BF3715C00EC80D5 /* EscapingBootcamp.swift */; };
+		41A8D2A22BF3849700EC80D5 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D2A12BF3849700EC80D5 /* CodableBootcamp.swift */; };
 		41E662772BEB9F14006B36C5 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E662762BEB9F14006B36C5 /* MaskBootcamp.swift */; };
 		41E662792BEBA39B006B36C5 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E662782BEBA39B006B36C5 /* SoundsBootcamp.swift */; };
 		41E6627C2BEBA983006B36C5 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41E6627B2BEBA983006B36C5 /* badum.mp3 */; };
@@ -55,6 +56,7 @@
 		41A8D29B2BF35C8700EC80D5 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		41A8D29D2BF3644A00EC80D5 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		41A8D29F2BF3715C00EC80D5 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
+		41A8D2A12BF3849700EC80D5 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 		41E662762BEB9F14006B36C5 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		41E662782BEBA39B006B36C5 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		41E6627B2BEBA983006B36C5 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				41A8D29B2BF35C8700EC80D5 /* WeakSelfBootcamp.swift */,
 				41A8D29D2BF3644A00EC80D5 /* TypealiasBootcamp.swift */,
 				41A8D29F2BF3715C00EC80D5 /* EscapingBootcamp.swift */,
+				41A8D2A12BF3849700EC80D5 /* CodableBootcamp.swift */,
 				417714082BF0B0A0006D283F /* CoreDataContainer.xcdatamodeld */,
 				418630CA2BEFBC4700904418 /* FruitsContainer.xcdatamodeld */,
 			);
@@ -239,6 +242,7 @@
 				41A8D2A02BF3715C00EC80D5 /* EscapingBootcamp.swift in Sources */,
 				41F883EE2BE526F100B4AE54 /* ScrollViewReaderBootcamp.swift in Sources */,
 				4166BC262BEA565400B709DE /* MultipleSheetsBootcamp.swift in Sources */,
+				41A8D2A22BF3849700EC80D5 /* CodableBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
