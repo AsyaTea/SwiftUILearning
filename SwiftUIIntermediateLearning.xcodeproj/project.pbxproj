@@ -27,6 +27,7 @@
 		41A8D2A22BF3849700EC80D5 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D2A12BF3849700EC80D5 /* CodableBootcamp.swift */; };
 		41D90A142BF61A2900C35869 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A132BF61A2900C35869 /* DownloadWithCombine.swift */; };
 		41D90A162BF6599100C35869 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A152BF6599100C35869 /* TimerBootcamp.swift */; };
+		41D90A3E2BF7961B00C35869 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A3D2BF7961B00C35869 /* SubscriberBootcamp.swift */; };
 		41E662772BEB9F14006B36C5 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E662762BEB9F14006B36C5 /* MaskBootcamp.swift */; };
 		41E662792BEBA39B006B36C5 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E662782BEBA39B006B36C5 /* SoundsBootcamp.swift */; };
 		41E6627C2BEBA983006B36C5 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41E6627B2BEBA983006B36C5 /* badum.mp3 */; };
@@ -61,6 +62,7 @@
 		41A8D2A12BF3849700EC80D5 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 		41D90A132BF61A2900C35869 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		41D90A152BF6599100C35869 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
+		41D90A3D2BF7961B00C35869 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		41E662762BEB9F14006B36C5 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		41E662782BEBA39B006B36C5 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		41E6627B2BEBA983006B36C5 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				41973F8F2BF4E02800D32D4B /* DownloadWithEscapingBootcamp.swift */,
 				41D90A132BF61A2900C35869 /* DownloadWithCombine.swift */,
 				41D90A152BF6599100C35869 /* TimerBootcamp.swift */,
+				41D90A3D2BF7961B00C35869 /* SubscriberBootcamp.swift */,
 				417714082BF0B0A0006D283F /* CoreDataContainer.xcdatamodeld */,
 				418630CA2BEFBC4700904418 /* FruitsContainer.xcdatamodeld */,
 			);
@@ -248,6 +251,7 @@
 				41A8D2A02BF3715C00EC80D5 /* EscapingBootcamp.swift in Sources */,
 				41F883EE2BE526F100B4AE54 /* ScrollViewReaderBootcamp.swift in Sources */,
 				41D90A142BF61A2900C35869 /* DownloadWithCombine.swift in Sources */,
+				41D90A3E2BF7961B00C35869 /* SubscriberBootcamp.swift in Sources */,
 				4166BC262BEA565400B709DE /* MultipleSheetsBootcamp.swift in Sources */,
 				41A8D2A22BF3849700EC80D5 /* CodableBootcamp.swift in Sources */,
 				41D90A162BF6599100C35869 /* TimerBootcamp.swift in Sources */,
