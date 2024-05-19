@@ -10,6 +10,7 @@ import Combine
 
 class SubscriberViewModel: ObservableObject {
     @Published var count: Int = 0
+    @Published var textFieldText = ""
     
     var cancellables = Set<AnyCancellable>()
     
@@ -35,6 +36,9 @@ struct SubscriberBootcamp: View {
         VStack {
             Text("\(vm.count)")
                 .font(.largeTitle)
+            
+            TextField("Type something..", text: vm.$textFieldText)
+                .frame(height: 55)
         }
     }
 }
