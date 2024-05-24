@@ -13,6 +13,7 @@ struct DownloadingImagesBootcamp: View {
             List {
                 Text("Hello")
             }
+            .navigationTitle("Downloading Images")
         }
     }
 }
