@@ -33,6 +33,7 @@
 		41BCB0832C0608660012A608 /* DownloadingImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BCB0822C0608660012A608 /* DownloadingImageView.swift */; };
 		41BCB0852C0608C90012A608 /* ImageLoadingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BCB0842C0608C90012A608 /* ImageLoadingViewModel.swift */; };
 		41BCB0872C060C9B0012A608 /* PhotoModelCacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BCB0862C060C9B0012A608 /* PhotoModelCacheManager.swift */; };
+		41BCB0892C0611270012A608 /* PhotoModelFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BCB0882C0611270012A608 /* PhotoModelFileManager.swift */; };
 		41D90A142BF61A2900C35869 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A132BF61A2900C35869 /* DownloadWithCombine.swift */; };
 		41D90A162BF6599100C35869 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A152BF6599100C35869 /* TimerBootcamp.swift */; };
 		41D90A3E2BF7961B00C35869 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D90A3D2BF7961B00C35869 /* SubscriberBootcamp.swift */; };
@@ -77,6 +78,7 @@
 		41BCB0822C0608660012A608 /* DownloadingImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadingImageView.swift; sourceTree = "<group>"; };
 		41BCB0842C0608C90012A608 /* ImageLoadingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoadingViewModel.swift; sourceTree = "<group>"; };
 		41BCB0862C060C9B0012A608 /* PhotoModelCacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelCacheManager.swift; sourceTree = "<group>"; };
+		41BCB0882C0611270012A608 /* PhotoModelFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelFileManager.swift; sourceTree = "<group>"; };
 		41D90A132BF61A2900C35869 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		41D90A152BF6599100C35869 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		41D90A3D2BF7961B00C35869 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
@@ -147,6 +149,7 @@
 			children = (
 				41BCB07E2C0267720012A608 /* PhotoModelDataService.swift */,
 				41BCB0862C060C9B0012A608 /* PhotoModelCacheManager.swift */,
+				41BCB0882C0611270012A608 /* PhotoModelFileManager.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				41F883EE2BE526F100B4AE54 /* ScrollViewReaderBootcamp.swift in Sources */,
 				41D90A142BF61A2900C35869 /* DownloadWithCombine.swift in Sources */,
 				4102A1A32BFFD6A300A0A83E /* DownloadingImagesBootcamp.swift in Sources */,
+				41BCB0892C0611270012A608 /* PhotoModelFileManager.swift in Sources */,
 				41D90A3E2BF7961B00C35869 /* SubscriberBootcamp.swift in Sources */,
 				41BCB07F2C0267720012A608 /* PhotoModelDataService.swift in Sources */,
 				4166BC262BEA565400B709DE /* MultipleSheetsBootcamp.swift in Sources */,
